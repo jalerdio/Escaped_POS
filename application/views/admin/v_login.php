@@ -11,7 +11,7 @@
 		<link href="<?php echo base_url().'assets/css/stylesl.css'?>" rel="stylesheet">
 		<style>
 		.masuk-bg {
-			background-image: url(http://localhost/escaped_pos/assets/img/back.jpg);
+			background-image: url(http://localhost/Escaped_POS/assets/img/back.jpg);
 			height
 		}
 		</style>

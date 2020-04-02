@@ -52,7 +52,7 @@
                   <div class="caption">
                   <h3>Laporan Barang</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/laporan/lap_data_barang" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/laporan/lap_data_barang" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
                   </div>
             </div>
             </div>
@@ -62,7 +62,7 @@
                   <div class="caption">
                   <h3>Grafik Stok Barang</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/grafik/graf_stok_barang" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/grafik/graf_stok_barang" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
                   </div>
             </div>
             </div>
@@ -72,7 +72,7 @@
                   <div class="caption">
                   <h3>Laporan Penjualan</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/laporan/lap_data_penjualan" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/laporan/lap_data_penjualan" target="_blank" class="btn btn-primary" role="button">LIHAT</a></p>
                   </div>
             </div>
             </div>
@@ -89,7 +89,7 @@
                   <div class="caption">
                   <h3>Laporan Penjualan</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/laporan/lap_data_penjualan" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/laporan/lap_data_penjualan" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
                   </div>
             </div>
             </div>
@@ -99,7 +99,7 @@
                   <div class="caption">
                   <h3>Grafik Stok Barang</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/grafik/graf_stok_barang" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/grafik/graf_stok_barang" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
                   </div>
             </div>
             </div>
@@ -109,7 +109,7 @@
                   <div class="caption">
                   <h3>Laporan Stok Barang</h3>
                   <p>ESCAPED</p>
-                  <p><a href="http://localhost/escaped_pos/admin/laporan/lap_stok_barang" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
+                  <p><a href="http://localhost/Escaped_POS/admin/laporan/lap_stok_barang" target="_blank" class="btn btn-primary" role="button">Lihat</a></p>
                   </div>
             </div>
             </div>
